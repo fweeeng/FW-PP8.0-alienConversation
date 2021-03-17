@@ -68,3 +68,5 @@ class Main
     return b+1; //add 1 to make sure each run is a conversation (at least two aliens blurbing)
   }//end method random
 }//end class Main
+
+//bad commit hygiene
